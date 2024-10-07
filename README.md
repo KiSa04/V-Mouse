@@ -11,4 +11,4 @@ ToDo:
   1. Longpress with the mouse
   2. Create setting to enable a different bosskey just for scrolling
 
-Credits to: [Virresh](https://github.com/virresh/)
+Credits to: [Virresh](https://github.com/virresh/) for their Android TV mouse

@@ -44,7 +44,7 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="20.0dip"
-            android:text="Other Settings"
+            android:text="Settings"
             android:textAlignment="center"
             android:textColor="@color/blue"
             android:textSize="20.0sp" />
